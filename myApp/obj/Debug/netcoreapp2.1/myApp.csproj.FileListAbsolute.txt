@@ -1,0 +1,11 @@
+/Users/alvaroperalta/Desktop/myApp/obj/Debug/netcoreapp2.1/myApp.csprojAssemblyReference.cache
+/Users/alvaroperalta/Desktop/myApp/obj/Debug/netcoreapp2.1/myApp.csproj.CoreCompileInputs.cache
+/Users/alvaroperalta/Desktop/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfoInputs.cache
+/Users/alvaroperalta/Desktop/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfo.cs
+/Users/alvaroperalta/Desktop/myApp/bin/Debug/netcoreapp2.1/myApp.deps.json
+/Users/alvaroperalta/Desktop/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.json
+/Users/alvaroperalta/Desktop/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.dev.json
+/Users/alvaroperalta/Desktop/myApp/bin/Debug/netcoreapp2.1/myApp.dll
+/Users/alvaroperalta/Desktop/myApp/bin/Debug/netcoreapp2.1/myApp.pdb
+/Users/alvaroperalta/Desktop/myApp/obj/Debug/netcoreapp2.1/myApp.dll
+/Users/alvaroperalta/Desktop/myApp/obj/Debug/netcoreapp2.1/myApp.pdb
